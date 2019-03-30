@@ -1,6 +1,4 @@
-# earth-dynamic-wallpaper
-Dynamic wallpaper for KDE: Earth
-
+Earth
 
 This is based on Marcin Czachurski's dynamic wallpaper for MacOS:
 https://itnext.io/macos-mojave-dynamic-wallpapers-ii-f8b1e55c82f
